@@ -36,6 +36,7 @@
 | [**Раунд**](https://github.com/VaDex-web/raund-tech-store) · [демо](https://raund-tech.netlify.app) | Сайт магазина техники: прайс на 50+ позиций, страницы товаров и админка с загрузкой фото | JS, Netlify Functions, Netlify Blobs |
 | [**Steve’s Apple**](https://github.com/VaDex-web/steves-apple) · [демо](https://vadex-web.github.io/steves-apple/) | Тёмный «журнальный» лендинг магазина Apple с анимациями при прокрутке | HTML, CSS, JS |
 | [**Министерство Яблок**](https://github.com/VaDex-web/ministry-of-apples) · [демо](https://vadex-web.github.io/ministry-of-apples/) | Лендинг магазина Apple-техники: 3D-конфигуратор iPhone, прайс, каталог Mac и iPad | HTML, CSS, JS, SVG |
+| [**SCS Detailing**](https://github.com/VaDex-web/scs-detailing) · [демо](https://vadex-web.github.io/scs-detailing/) | Сайт детейлинг-студии: интерактивная «полировка» кузова на canvas, каталог услуг и калькулятор стоимости с отправкой в WhatsApp | HTML, CSS, JS, Canvas |
 
 ### 📊 Статистика
 
