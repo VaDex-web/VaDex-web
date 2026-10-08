@@ -37,6 +37,7 @@
 | [**Steve’s Apple**](https://github.com/VaDex-web/steves-apple) · [демо](https://vadex-web.github.io/steves-apple/) | Тёмный «журнальный» лендинг магазина Apple с анимациями при прокрутке | HTML, CSS, JS |
 | [**Министерство Яблок**](https://github.com/VaDex-web/ministry-of-apples) · [демо](https://vadex-web.github.io/ministry-of-apples/) | Лендинг магазина Apple-техники: 3D-конфигуратор iPhone, прайс, каталог Mac и iPad | HTML, CSS, JS, SVG |
 | [**SCS Detailing**](https://github.com/VaDex-web/scs-detailing) · [демо](https://vadex-web.github.io/scs-detailing/) | Сайт детейлинг-студии: интерактивная «полировка» кузова на canvas, каталог услуг и калькулятор стоимости с отправкой в WhatsApp | HTML, CSS, JS, Canvas |
+| [**Alpha Store**](https://github.com/VaDex-web/alpha-store) · [демо](https://vadex-web.github.io/alpha-store/) | Магазин электроники: каталог на 150 позиций с поиском и фильтрами, отдельная страница каждой модели с выбором памяти, SIM и цвета, заказ через корзину магазина | HTML, CSS, JS, SVG |
 
 ### 📊 Статистика
 
